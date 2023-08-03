@@ -77,6 +77,9 @@ ufw allow 5555
 
 ```
 
+> [!IMPORTANT]
+> Make sure the vpnserver service is started.
+
 
 
 
