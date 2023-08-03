@@ -86,7 +86,7 @@ and download  and Install it.
 
 8.Create New Connection String:
 
-setting Name : <you favorite Name> ,
+setting Name : <you favorite Name>,
 Host Name : <Your Server IP Address>,
 Password : <Your password what you Entered for ServerPasswordSet setting ----> Look at Step3)
 
