@@ -1,5 +1,6 @@
 # How-config-softether-vpn--for-bypassing-sanction
-In this repo, the steps of setting up vpn (Ethernet protocol over HTTPS) are taught step by step:
+### In this repo, the steps of setting up Softether vpn (Ethernet protocol over HTTPS) are taught step by step:
+
 
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Softethervpn_stack.jpg#/media/File:Softethervpn_stack.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Softethervpn_stack.jpg" alt="Softethervpn stack.jpg" height="700" width="750"></a></p>
