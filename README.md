@@ -41,7 +41,46 @@ ServerPasswordSet
 then press ctrl+c to exit vpn config
 
 ```
-4.
+4.copy and paste below config carefully:
+```
+sudo cat >> /lib/systemd/system/vpnserver.service << EOF
+[Unit]
+Description=SoftEther VPN Server
+After=network.target
+[Service]
+Type=forking
+ExecStart=
+ExecStart=/usr/local/vpnserver/vpnserver start
+ExecStop=/usr/local/vpnserver/vpnserver stop
+[Install]
+WantedBy=multi-user.target
+EOF
+
+```
+
+5.Setup Routing Config :
+```
+echo net.ipv4.ip_forward = 1 | ${SUDO} tee -a /etc/sysctl.conf
+```
+
+6.Starting Service And Setup Firewall Access list :
+```
+systemctl enable vpnserver
+systemctl start vpnserver
+systemctl status vpnserver
+
+ufw allow 443
+ufw allow 500,4500/udp
+ufw allow 1701
+ufw allow 1194
+ufw allow 5555
+
+```
+
+
+
+
+
 
 
 
