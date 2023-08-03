@@ -81,7 +81,8 @@ ufw allow 5555
 > Make sure the vpnserver service is started.
 
 7.Go to the [this link](https://www.softether-download.com/en.aspx?product=softether/) and find Download link last version SoftEther VPN Server Manager for Windows
-and download  and Instal it .
+and download  and Instal it.
+
 
 8. Create New Connection String:
 setting Name : <you favorite Name>
