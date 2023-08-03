@@ -2,7 +2,7 @@
 In this repo, the steps of setting up vpn (Ethernet protocol over HTTPS) are taught step by step:
 
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Softethervpn_stack.jpg#/media/File:Softethervpn_stack.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Softethervpn_stack.jpg" alt="Softethervpn stack.jpg" height="800" width="850"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Softethervpn_stack.jpg#/media/File:Softethervpn_stack.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Softethervpn_stack.jpg" alt="Softethervpn stack.jpg" height="700" width="750"></a></p>
 
 
 1.Run the following commands with your eyes closed:
