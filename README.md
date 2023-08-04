@@ -92,7 +92,11 @@ Host Name : <Your Server IP Address>,
 Password : <Your password what you Entered for ServerPasswordSet setting ----> Look at Step3> 
 ```
 
+9.See Help Photo in [this link](https://1drv.ms/i/s!Ap7hnxnt2U1JgUvh58SD_y49dKWn?e=Ssrkzs)
 
+10.Download Application for Android From [Here](https://1drv.ms/u/s!Ap7hnxnt2U1JgUxrueHJQsAeOYf0?e=1DQZAq)
+
+11.Download Client Application From [Here](https://1drv.ms/u/s!Ap7hnxnt2U1JgUxrueHJQsAeOYf0?e=1DQZAq) Choose SoftEther VPN Client And Your platform ( Windows,Linux,Mac).
 
 
 
