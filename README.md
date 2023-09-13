@@ -96,7 +96,7 @@ Password : <Your password what you Entered for ServerPasswordSet setting ----> L
 
 10.Download Application for Android From [Here](https://1drv.ms/u/s!Ap7hnxnt2U1JgUxrueHJQsAeOYf0?e=1DQZAq)
 
-11.Download Client Application From [Here](https://1drv.ms/u/s!Ap7hnxnt2U1JgUxrueHJQsAeOYf0?e=1DQZAq) Choose SoftEther VPN Client And Your platform ( Windows,Linux,Mac).
+11.Download Client Application From [Here](https://www.softether-download.com/en.aspx?product=softether/) Choose SoftEther VPN Client And Your platform ( Windows,Linux,Mac).
 
 
 
