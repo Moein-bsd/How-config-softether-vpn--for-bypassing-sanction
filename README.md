@@ -16,7 +16,7 @@ apt-get -y install build-essential wget make curl gcc  wget zlib1g-dev tzdata gi
 2.Go to the [this link](https://www.softether-download.com/en.aspx?product=softether/) and find Download link last version SoftEther_VPN_Server
 and download it OR Go to [this link](http://www.softether-download.com/files/softether/) To see all directory:
 
-(for  example [SoftEther_VPN_Server for linux Intel CPU](https://https://www.softether-download.com/files/softether/v4.42-9798-rtm-2023.06.30-tree/Linux/SoftEther_VPN_Server/64bit_-_Intel_x64_or_AMD64/softether-vpnserver-v4.42-9798-rtm-2023.06.30-linux-x64-64bit.tar.gz/) )
+(for  example [SoftEther_VPN_Server for linux Intel CPU](https://www.softether-download.com/files/softether/v4.42-9798-rtm-2023.06.30-tree/Linux/SoftEther_VPN_Server/64bit_-_Intel_x64_or_AMD64/softether-vpnserver-v4.42-9798-rtm-2023.06.30-linux-x64-64bit.tar.gz/) )
 ```
 wget "https://https://www.softether-download.com/files/softether/v4.42-9798-rtm-2023.06.30-tree/Linux/SoftEther_VPN_Server/64bit_-_Intel_x64_or_AMD64/softether-vpnserver-v4.42-9798-rtm-2023.06.30-linux-x64-64bit.tar.gz"
 
@@ -26,6 +26,7 @@ wget "https://https://www.softether-download.com/files/softether/v4.42-9798-rtm-
 ls
 tar  xzf “downloaded file name”
 cd vpnserver
+make
 Cd ..
 mv vpnserver /usr/local
 cd /usr/local/vpnserver/
