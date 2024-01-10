@@ -27,7 +27,7 @@ ls
 tar  xzf “downloaded file name”
 cd vpnserver
 make
-Cd ..
+cd ..
 mv vpnserver /usr/local
 cd /usr/local/vpnserver/
 chmod 600 *
